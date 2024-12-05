@@ -38,9 +38,9 @@ def recommend(movie):
     
     return recommend_movies,recommend_movies_poster
 
-st.title(":violet[Movie Recommender]")
+st.title(":orange[Movie Recommender]")
 
-selected = st.selectbox(":violet[Select a movie from the given list:]", movies["title"].values)
+selected = st.selectbox(":orange[Select a movie from the given list:]", movies["title"].values)
 
 if st.button("Recommend"):
     try:
