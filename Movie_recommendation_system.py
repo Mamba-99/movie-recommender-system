@@ -120,7 +120,7 @@ footer {
 </style>
 
 <footer>
-Made by: Anubha Kushwaha, Anamika Verma, Archana Chaurshiya
+Made by: Anubha, Anamika, Archana
 </footer>
 """
 
